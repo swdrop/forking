@@ -11,7 +11,7 @@ ingredients:
 - 1 can chicken broth
 - 2 tsp cumin
 - 1 4 oz can green chiles (chopped)
-- 1 4 oz can of slice jalepenos
+- 1 4 oz can of sliced jalapenos
 - 1/2 cup canola oil
 - 1 lemon
 - 1/4 cup jarred or minced garlic
