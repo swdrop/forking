@@ -20,11 +20,11 @@ ingredients:
 
 
 directions:
-- Add chicken breasts, chicken broth, green chiles, sliced jalepenos and 1 tsp cumin to crockpot and cook on low for 6 to 8 hours (or use prepared pulled chicken).
+- Add chicken breasts, chicken broth, green chiles, sliced jalapenos and 1 tsp cumin to crockpot and cook on low for 6 to 8 hours (or use prepared pulled chicken).
 - Prepare dressing by mixing canola oil, lemon juice, jarred garlic and 1 tsp cumin.
 - When chicken is done, shred and spread onto tortilla chips.
 - Cover chips with cheese and broil until melted.
-- Pull out of oven and add dressing and more jalepenos to taste.
+- Pull out of oven and add dressing and more jalapenos to taste.
 
 ---
 
